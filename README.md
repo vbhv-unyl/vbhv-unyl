@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A competitive Programer with blend of development from India.</h3>
+<h1 align="center">Hi 👋,   I'm Vaibhav</h1>
+<h3 align="center">A Competitive Programmer with a blend of development from India.</h3>
 
 - 🔭 I’m currently working on **developing robust backends for web and mobile apps**
 
