@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **developing robust backends for web and mobile apps**
 
-- 🌱 I’m currently learning **Cloud native approach and devops**
+- 🌱 I’m currently learning **Cloud Native Approach and DevOps**
 
 - 💬 Ask me about **CP, MERN, MOBILE APPS, DEVOPS**
 
