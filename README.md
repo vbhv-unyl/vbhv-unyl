@@ -18,4 +18,11 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbhv-unyl&layout=compact&card_width=500&theme=radical)
+<div style="display: flex; align-items: flex-start;">
+    <div>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbhv-unyl&layout=compact&card_width=500&theme=radical)
+    </div>
+    <div style="margin-left: 20px;">
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbhv-unyl&show_icons=true&theme=radical)
+    </div>
+</div>
