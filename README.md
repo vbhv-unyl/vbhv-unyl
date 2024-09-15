@@ -18,3 +18,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbhv-unyl&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbhv-unyl&show_icons=true&theme=radical)
