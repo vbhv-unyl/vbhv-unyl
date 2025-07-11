@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋,   I'm Vaibhav</h1>
-<h3 align="center">A Competitive Programmer with a blend of development from India.</h3>
+<h3 align="center">An Engineer with passion for Competitive Programming and Software Development from India.</h3>
 
-- 🔭 I’m currently working on **developing robust backends for web and mobile apps**
+- 🔭 I’m currently working on **developing robust backends for scalable applications**
 
 - 🌱 I’m currently learning **Cloud Native Approach and DevOps**
 
-- 💬 Ask me about **CP, MERN, MOBILE APPS, DEVOPS**
+- 💬 Ask me about **CP, BACKEND, DEVOPS**
 
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
