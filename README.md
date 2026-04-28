@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently building **robust and scalable backend systems**
-- 🌱 Learning **Cloud Native Development & DevOps practices**
-- 💬 Ask me about **Competitive Programming, Backend Development, DevOps**
-- ⚡ Fun fact: I enjoy optimizing code as much as optimizing systems
+- 🌱 Exploring **Cloud Native Development & DevOps**
+- 💬 Ask me about **Competitive Programming, Backend, DevOps**
+- ⚡ Passionate about writing efficient code and designing scalable systems
 
 ---
 
@@ -28,7 +28,7 @@
 #### 💻 Languages
 `C` `C++` `Java` `Python` `JavaScript` `TypeScript`
 
-#### 🌐 Web & App Development
+#### 🌐 Web Development
 `HTML` `CSS` `React` `Node.js` `Tailwind CSS` `SASS`
 
 #### ⚙️ Backend & DevOps
@@ -44,21 +44,34 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=coderstack&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=coderstack&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderstack&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ---
 
 ### 🚀 What I'm Focused On
-- Scalable backend architectures
-- Microservices & distributed systems
-- CI/CD pipelines and automation
-- Cloud-native applications
+- Scalable backend architectures  
+- Microservices & distributed systems  
+- CI/CD pipelines and automation  
+- Cloud-native applications  
 
 ---
 
 ### 🤝 Let's Connect
-- Feel free to reach out for collaboration or discussions!
+- Open to collaboration, discussions, and learning opportunities  
 
 ---
