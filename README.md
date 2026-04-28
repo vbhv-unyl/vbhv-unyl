@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">🚀 Engineer | Competitive Programmer | Backend & DevOps Enthusiast</h3>
+<h3 align="center">🚀 Engineer | Competitive Programmer | Backend & DevOps Engineer</h3>
 
 ---
 
