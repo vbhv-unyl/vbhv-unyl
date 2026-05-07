@@ -32,10 +32,10 @@
 `HTML` `CSS` `React` `Node.js` `Tailwind CSS` `SASS`
 
 #### ⚙️ Backend & DevOps
-`Docker` `Kubernetes` `Jenkins` `NGINX`
+`Docker` `Kubernetes` `GitHub Actions` `Prometheus` `Grafana` `NGINX` `Azure DevOps`
 
 #### ☁️ Cloud & Databases
-`AWS` `GCP` `MongoDB` `MySQL`
+`AWS` `Azure` `MongoDB` `SQL`
 
 #### 🔧 Tools & Others
 `Git` `Postman` `Linux` `Jest` `Chart.js` `Scikit-learn`
